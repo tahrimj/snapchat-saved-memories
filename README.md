@@ -5,4 +5,4 @@ How to run the file:
 download relevant libraries mentioned in the code
 
 Run this in terminal/cmd:
-python filename.py /path/to/your/file.json
+python open_links.py /path/to/your/file.json
